@@ -14,5 +14,5 @@ go.work.sum
 .env
 
 config
-storage
+/storage
 internal
